@@ -1,0 +1,15 @@
+# windows下与网络相关的常用命令
+## 一、cmd终端相关  
+### cmd终端启动  
+如何启动cmd终端？首先，你得有一台Windows系统的电脑，其次保证电脑能够正常启动，如果能做到的话，那么请打开你喜欢的<del><b>游戏</b></del>Windows搜索框，输入cmd这三个字符。
+<center><img src="https://wx1.sbimg.cn/2020/09/17/G2tMh.png"></center>  
+一般直接打开，需要权限的情况下，请点击以管理员身份运行。当然，作为网管中心的维护人员，我们需要一点点<del><b>装逼</b></del>实用技能。
+同时按下<kbd>Win</kbd>+<kbd>R</kbd>,如果按对了应该是这样的：  
+<center><img src="https://wx2.sbimg.cn/2020/09/17/G27VR.png"></center>
+然后输入cmd，按下<kbd>enter</kbd>键，就可以看到激动人心的cmd界面了:  
+<center><img src="https://wx1.sbimg.cn/2020/09/17/G2K6I.png"></center>
+<center><img src="https://wx2.sbimg.cn/2020/09/17/G2YlG.png"></center>
+找找上面两张图有什么不同。<del>不准吐槽名字！！！</del>    
+
+希望你已经看出来了，最关键的不同之处在于图片左上角显示的一个是管理员而另一个cmd的路径。  
+

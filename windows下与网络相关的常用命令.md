@@ -2,7 +2,7 @@
 ## 一、cmd终端相关  
 ### cmd终端启动  
 如何启动cmd终端？首先，你得有一台Windows系统的电脑，其次保证电脑能够正常启动，如果能做到的话，那么请打开你喜欢的<del><b>游戏</b></del>Windows搜索框，输入cmd这三个字符。
-<center><img src="https://raw.githubusercontent.com/ForeverThreeDays/img/master/QQ%E5%9B%BE%E7%89%8720200917203634.png"></center>  
+<center><img src="https://threedays-1256422565.cos.ap-chengdu.myqcloud.com/img/QQ%E5%9B%BE%E7%89%8720200917203634.png"></center>  
 
 
 一般直接打开，需要权限的情况下，请点击以管理员身份运行。  
@@ -11,12 +11,12 @@
 同时按下<kbd>Win</kbd>+<kbd>R</kbd>,如果按对了应该是这样的： 
 
 
-<center><img src="https://raw.githubusercontent.com/ForeverThreeDays/img/master/QQ%E6%88%AA%E5%9B%BE20200917210133.png"></center>
+<center><img src="https://threedays-1256422565.cos.ap-chengdu.myqcloud.com/img/QQ%E6%88%AA%E5%9B%BE20200917210133.png"></center>
 然后输入cmd，按下<kbd>enter</kbd>键，就可以看到激动人心的cmd界面了:  
 
 
-<center><img src="https://raw.githubusercontent.com/ForeverThreeDays/img/master/QQ%E6%88%AA%E5%9B%BE20200917210712.png"></center>
-<center><img src="https://raw.githubusercontent.com/ForeverThreeDays/img/master/QQ%E6%88%AA%E5%9B%BE20200917210610.png"></center>
+<center><img src="https://threedays-1256422565.cos.ap-chengdu.myqcloud.com/img/QQ%E6%88%AA%E5%9B%BE20200917210712.png"></center>
+<center><img src="https://threedays-1256422565.cos.ap-chengdu.myqcloud.com/img/QQ%E6%88%AA%E5%9B%BE20200917210610.png"></center>
 找找上面两张图有什么不同。<del>不准吐槽用户名！！！</del>    
 
 
@@ -31,7 +31,7 @@
 ipconfig命令是常用的命令之一，在cmd终端运行该命令后，你会看见像下图一样的东西：
 
 
-<center><img src="https://raw.githubusercontent.com/ForeverThreeDays/img/master/QQ%E5%9B%BE%E7%89%8720200918163134.png" alt="GP7V7.png" border="0" /></center>
+<center><img src="https://threedays-1256422565.cos.ap-chengdu.myqcloud.com/img/QQ%E5%9B%BE%E7%89%8720200918163134.png"/></center>
 
 
 图中有个叫做IPv4地址的东西，你现在只需要一直盯着它，等到你觉得它害羞了为止。其他的内容我会在后面提到，所以现在你只需要继续看下去，知道有这个东西就行。  

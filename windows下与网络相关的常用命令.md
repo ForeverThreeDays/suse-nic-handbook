@@ -12,11 +12,15 @@
 
 
 <center><img src="https://threedays-1256422565.cos.ap-chengdu.myqcloud.com/img/QQ%E6%88%AA%E5%9B%BE20200917210133.png"></center>
+
+
 然后输入cmd，按下<kbd>enter</kbd>键，就可以看到激动人心的cmd界面了:  
 
 
 <center><img src="https://threedays-1256422565.cos.ap-chengdu.myqcloud.com/img/QQ%E6%88%AA%E5%9B%BE20200917210712.png"></center>
 <center><img src="https://threedays-1256422565.cos.ap-chengdu.myqcloud.com/img/QQ%E6%88%AA%E5%9B%BE20200917210610.png"></center>
+
+
 找找上面两张图有什么不同。<del>不准吐槽用户名！！！</del>    
 
 
@@ -43,3 +47,24 @@ ipconfig命令是常用的命令之一，在cmd终端运行该命令后，你会
 
 
 我们采用类比的手法，将IPv4地址当作是小王打听到的地址，小王分别执行了收回地址和重新取得地址的动作，这两个动作便和之前提到的两个命令有一定的相似之处。
+
+### ipconfig /?命令
+俗话说的好，授人以鱼不如授人以渔，<del>我这条懒狗绞劲脑汁在摸鱼</del>，所以学会查看帮助是有必要的。于是，我们隆重推出了ipconfig /?命令，<del>这是你从未见过的全新版本</del>在cmd终端里输入该条命令时，将出现如下图所示的混沌无比的界面：
+
+
+<center><img src="https://threedays-1256422565.cos.ap-chengdu.myqcloud.com/img/QQ%E6%88%AA%E5%9B%BE20200929231434.png"/></center>
+
+
+在图中的选项部分，你能看到关于ipconfig的所有命令。在图片下半部分的示例中，你能看到ipconfig命令的部分用法。
+关于命令的具体意义，由于本人知识有限，且在实践过程中只需要对应具体情况使用相关命令，所以我就不解释了<del>其实就是懒得查资料了</del>。
+
+
+我会在这段举出一些常用的ipconfig命令，然后我们约定一下，在命令不变的情况下，我会直接写出参数，只要你仔细看过上文应该就知道该怎么输入了，然后一些特别一点的命令我会举出几个例子以供参考：
+
+
+#### release
+用于释放所获取的ip地址，正常情况下我们不要求指定适配器，<del>因为我们直接禁用某一适配器</del>所以建议直接使用。一般是在所获取的ip地址与正常使用ip地址不相同时使用。如某些情况下路由器配置出错所导致的ip污染问题。
+
+
+#### flushdns
+用于清除dns缓存，主要针对某些无法显示网页，但是其他网络服务如QQ可以使用的情况。
